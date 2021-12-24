@@ -9,9 +9,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val a = 4
+        val a = 0
         val b = 4
-        val c = a + b
+        val c = a 
 
         // modified main...
     }
